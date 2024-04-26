@@ -1,0 +1,10 @@
+.footer__container {
+  /* background-color: var(--egg-nog); */
+  color: var(--velvet-forest);
+  height: max-content;
+}
+
+.footer__bottom {
+  background-color: var(--velvet-forest);
+  color: var(--egg-nog);
+}

@@ -1,0 +1,33 @@
+.menu__tablet {
+  color: var(--velvet-forest);
+  font-size: 1rem;
+}
+
+.header {
+  /* background-color: seagreen; */
+  color: burlywood;
+}
+
+.header__icon {
+  color: var(--velvet-forest);
+  font-size: 2rem;
+  /* height: 2rem; */
+}
+
+.header__search--container {
+  border: 1px solid var(--velvet-forest);
+  border-radius: 5px;
+  height: 3rem;
+}
+
+.header__search--icon {
+  background-color: var(--velvet-forest);
+  color: var(--egg-nog);
+  width: 4rem;
+  height: 100%;
+}
+
+.header__input input {
+  border: none;
+  outline: none;
+}

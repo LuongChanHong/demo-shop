@@ -1,0 +1,10 @@
+.logo__container {
+  background-color: var(--velvet-forest);
+  color: var(--egg-nog);
+
+  width: 8.5rem;
+  height: 8.5rem;
+
+  font-size: 300%;
+  font-family: math;
+}

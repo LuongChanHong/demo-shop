@@ -1,0 +1,17 @@
+.slidingMenu__container {
+  background-color: var(--egg-nog);
+  width: 60%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 5;
+}
+
+.menu__item {
+  padding: 1rem;
+}
+
+.icon__link {
+  text-decoration: none;
+  color: var(--velvet-forest);
+}

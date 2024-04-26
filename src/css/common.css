@@ -1,0 +1,11 @@
+.hide {
+  display: none;
+}
+
+.unHide {
+  display: flex;
+}
+
+.unHide__block {
+  display: block;
+}
